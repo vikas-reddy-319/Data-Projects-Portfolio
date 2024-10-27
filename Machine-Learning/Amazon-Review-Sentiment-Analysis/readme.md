@@ -62,8 +62,6 @@ Amazon receives a massive number of product reviews daily, making it challenging
    - **LIME**: Used to interpret model predictions and make sentiment analysis more transparent.
    - **Matplotlib and Seaborn**: For visualizing data distributions and model performance metrics.
 
-5. **Dashboard Development**:
-   - **Tableau/Power BI**: For developing an interactive dashboard to present sentiment insights to stakeholders.
 
 ## Conclusion and Future Scope
 This project successfully classified Amazon reviews with a high degree of accuracy, providing valuable insights into customer sentiment. The automated classification model not only saves time but also helps businesses monitor customer feedback in real-time, enabling quicker responses to market demands. The sentiment analysis tool offers a practical solution for improving customer satisfaction and product quality.
