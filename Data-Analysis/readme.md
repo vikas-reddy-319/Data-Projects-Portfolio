@@ -1,6 +1,3 @@
-### **Sub-Repository: Data Analysis**
-
-
 # Data Analysis Projects
 
 ## Overview
