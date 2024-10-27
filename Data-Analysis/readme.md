@@ -1,11 +1,6 @@
-
----
-
 ### **Sub-Repository: Data Analysis**
 
-**README.md**
 
-```markdown
 # Data Analysis Projects
 
 ## Overview
