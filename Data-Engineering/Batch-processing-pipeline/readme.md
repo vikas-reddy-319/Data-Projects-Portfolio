@@ -1,7 +1,7 @@
 # Batch Processing
 
 ## Overview
-This section includes projects focused on both **Batch Processing** data engineering workflows, implemented across **AWS**, **GCP**, and **Azure**.
+This section includes projects focused on **Batch Processing** data engineering workflows, implemented across **AWS**, **GCP**, and **Azure**.
 
 - **Batch Processing**: Workflows designed to process large volumes of data on a scheduled basis.
 
