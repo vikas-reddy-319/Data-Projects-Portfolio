@@ -26,5 +26,5 @@ This repository contains a collection of data-centric projects across different 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Data-Projects-Portfolio.git
+   git clone https://github.com/vikas-reddy-319/Data-Projects-Portfolio.git
    cd Data-Projects-Portfolio
