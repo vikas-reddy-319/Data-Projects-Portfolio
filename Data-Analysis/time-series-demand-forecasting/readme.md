@@ -1,6 +1,6 @@
 ---
 
-# 4) `time-series-demand-forecasting/README.md`
+# 4) `time-series-demand-forecasting`
 
 # Time-Series Demand Forecasting
 
