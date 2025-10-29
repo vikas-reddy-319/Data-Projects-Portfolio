@@ -1,29 +1,28 @@
-
 ---
 
 # 4) `time-series-demand-forecasting/README.md`
 
-```markdown
 # Time-Series Demand Forecasting
 
 **Type:** Portfolio Case Study (Forecasting · BI)  
 **Stack:** Python (Prophet/ARIMA) · Pandas · Power BI  
-**Domain:** Inventory / Supply chain
+**Domain:** Inventory / Supply Chain
 
 ## Problem
-Inventory planning was reactive, causing stockouts for fast movers and overstock on slow movers.
+Inventory planning was reactive, leading to:
+- Stockouts for high-velocity items  
+- Excess carrying costs for slow-moving SKUs  
 
 ## Solution (What I built)
-- Baseline Prophet/ARIMA models per SKU/region with weekly seasonality.
-- Feature engineering: holidays, promos, price changes.
-- Error tracking (MAPE/RMSE) + champion/challenger model selection.
-- Publish weekly forecasts to BI for planners.
+- Developed Prophet/ARIMA models per SKU/region with weekly seasonality
+- Added external regressors: holidays, promotions, and price shifts
+- Implemented MAPE/RMSE monitoring for model selection (champion vs. challenger)
+- Automated weekly forecast publishing to Power BI for planners
 
-## Business Value (Portfolio framing)
+## Business Value (Portfolio Framing)
 Designed to:
 - Improve forecast accuracy for **proactive planning**
-- Reduce stockouts & carrying cost
-- Align inventory with demand patterns
+- Reduce stockouts and over-inventory
+- Optimize supply chain decisions with data-driven insights
 
 ## Repo Structure
-
